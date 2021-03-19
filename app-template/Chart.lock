@@ -1,0 +1,6 @@
+dependencies:
+- name: core-template
+  repository: https://raw.githubusercontent.com/SkylarScaling/helm-core-template/master/
+  version: 0.1.0
+digest: sha256:8fe0a182161c84436d42b961e59e416546bdc35b6d33bb5b53e65ff6abc59392
+generated: "2021-03-19T12:57:51.805373957-06:00"

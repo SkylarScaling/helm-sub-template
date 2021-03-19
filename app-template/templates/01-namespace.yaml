@@ -1,0 +1,3 @@
+{{- include "core-template.namespace" (list . "app-template.namespace") -}}
+{{- define "app-template.namespace" -}}
+{{- end -}}

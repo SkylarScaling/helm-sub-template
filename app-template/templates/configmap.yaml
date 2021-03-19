@@ -1,0 +1,5 @@
+{{- include "core-template.configmap" (list . "app-template.configmap") -}}
+{{- define "app-template.configmap" -}}
+data:
+  myvalue: "Hello World"
+{{- end -}}

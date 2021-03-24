@@ -26,4 +26,4 @@ appVersion: 1.16.0
 dependencies:
   - name: core-template
     version: 0.1.0
-    repository: https://raw.githubusercontent.com/SkylarScaling/helm-core-template/master/
+    repository: https://github.com/SkylarScaling/helm-core-template
